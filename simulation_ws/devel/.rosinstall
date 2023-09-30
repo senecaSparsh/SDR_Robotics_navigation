@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sagarwal9/ros_ws/src/aws-robomaker-sample-application-helloworld/simulation_ws/devel/setup.sh
